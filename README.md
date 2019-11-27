@@ -1,2 +1,2 @@
-# yalanci-veri-uretici
-(English: Mock Data Generator)
+# Türkçe Sözde İnsan İsmi Üretici
+### English: Turkish Mock Human Name Generator
