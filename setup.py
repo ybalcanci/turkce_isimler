@@ -8,7 +8,7 @@ setup(
     author="Yasin Balcancı, Emre Sülün",
     author_email="ybalcanci@gmail.com",
     url="https://github.com/ybalcanci/turkce_isimler",
-    download_url='https://github.com/ybalcanci/turkce_isimler/archive/1.0.tar.gz',
+    download_url='https://github.com/ybalcanci/turkce_isimler/archive/1.1.tar.gz',
     keywords=["TURKISH", "MOCK-DATA", "İSİM"],
     install_requires=[],
     classifiers=[
