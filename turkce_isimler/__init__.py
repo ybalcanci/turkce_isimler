@@ -1,0 +1,1 @@
+from turkce_isimler.turkce_isimler import rastgele_isim_al

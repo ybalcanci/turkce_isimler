@@ -8,7 +8,7 @@ class Name:
         return self.name + ": " + str(self.count)
     
     def get_name(self):
-        return self.name
+        return self.name.title()
 
     def get_count(self):
         return self.count
