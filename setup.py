@@ -14,7 +14,7 @@ setup(
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
-        "Topic :: Turkish NLP",
+        "Topic :: Natural Language :: Turkish",
         'License :: MIT License',
         'Programming Language :: Python :: 3'
     ],
